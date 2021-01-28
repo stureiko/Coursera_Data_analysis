@@ -1,0 +1,6 @@
+datasets/
+numpy_exercises/
+pandas_exercises/
+*.csv
+.DS_Store
+.ipynb_checkpoints/
